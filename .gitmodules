@@ -1,0 +1,3 @@
+[submodule "company_protal"]
+	path = company_protal
+	url = https://github.com/abhi1506/company_protal.git
